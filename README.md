@@ -1,8 +1,9 @@
 <div align="center">
 
-# 👋 Halo, Saya Arnad_Tech
-
-### 💻 Pengembang Web & Aplikasi | Mahasiswa Teknik Informatika
+<!-- Gambar Banner Lokal untuk Bagian Tentang Saya -->
+<p align="center">
+  <img src="./assets/about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=betawidesign007&label=Total%20Pengunjung&color=6c63ff&style=flat" alt="Jumlah Pengunjung Profil" />
@@ -21,12 +22,7 @@
 - 🌱 Saat ini sedang aktif belajar dan membangun berbagai proyek **Pengembangan Web & Aplikasi**.
 - 🎯 Berfokus pada pembuatan aplikasi yang bermanfaat, responsif, dan ramah pengguna (*user-friendly*).
 - 📍 Indonesia
-
-<!-- Gambar Banner Lokal untuk Bagian Tentang Saya -->
-<p align="center">
-  <img src="./assets/about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
-</p>
-
+- 
 ---
 
 ## 🌐 Hubungi Saya
