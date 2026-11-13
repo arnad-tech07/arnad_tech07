@@ -81,7 +81,7 @@
 
 <!-- Gambar Ilustrasi Tech Stack Lokal -->
 <p align="center">
-  <img src="./assets/tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
+  <img src="./tech-stack-banner.png" alt="Banner Tech Stack" width="100%" />
 </p>
 
 ---
