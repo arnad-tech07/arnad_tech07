@@ -2,7 +2,7 @@
 
 <!-- Gambar Banner Lokal untuk Bagian Tentang Saya -->
 <p align="center">
-  <img src="./assets/about-me-banner.png" alt="Banner Tentang Saya" width="100%" />
+  <img src="./assets/logo_arnadTech.png" alt="Banner Tentang Saya" width="100%" />
 </p>
 
 <p>
